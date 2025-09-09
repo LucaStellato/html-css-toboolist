@@ -9,9 +9,56 @@ body{
     vertical-align: middle;
     font-size: 32px;
     font-family: arial;
+    margin-bottom: 30px;
 }
 
 .logotext{
     vertical-align:super;
     
+}
+
+.task{
+    background-color: #ffffff;
+    margin:auto;
+    width: 50%;
+    font-family: arial;
+   
+
+}
+.addtask{
+    margin-left: 45px;
+
+}
+
+.blue_button{
+
+    color: white;
+    background-color: #47adf1;
+    border: 0;
+    padding: 5px;
+    margin-top: 10px;
+    
+
+}
+
+.grey_button{
+    color:#d7dbde;
+    border: 1px solid #d1d6da;
+    padding:2px;
+    background-color: white;
+}
+
+
+hr{
+    margin-bottom: 22px;
+}
+.check{
+  display: inline-block;
+  color: green;
+  font-weight: bold;
+  border: 1px solid green;
+  border-radius: 50%;
+  padding: 2px;
+  font-size: 10px;
+  line-height: 1;
 }
