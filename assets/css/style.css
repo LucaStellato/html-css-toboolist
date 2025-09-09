@@ -20,8 +20,11 @@ body{
 .task{
     background-color: #ffffff;
     margin:auto;
-    width: 50%;
+    width: 80%;
     font-family: arial;
+    height: 640px;
+    padding-left: 65px;
+    
    
 
 }
@@ -107,10 +110,8 @@ color: red;
   display: inline-block;
 }
 
-.recruiting{
-    
    
-}
+
 
 .mobile{ 
     color: white;
@@ -151,3 +152,10 @@ color: red;
 
 
 }
+.line{
+    margin-top: 6px;
+    border-bottom: 3px solid #f6f8f9;
+    margin-bottom: 20px;
+    margin-left: -110px;
+}
+
