@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+    background-color: #f6f8f9;
+    
+}
+.container
+{
+    background-color:#ffffff ;
+    vertical-align: middle;
+    font-size: 32px;
+    font-family: arial;
+}
+
+.logotext{
+    vertical-align:super;
+    
+}
