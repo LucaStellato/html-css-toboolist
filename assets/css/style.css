@@ -95,3 +95,27 @@ hr{
     
 }
 
+.cross{
+color: red;    
+  font-weight: bold;
+  border: 1px solid red;
+  border-radius: 50%;
+  padding: 3px;
+  font-size: 10px;
+  line-height: 1;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.recruiting{
+    
+      color: white;
+    background-color: #64c0a9;
+    border-radius: 12px;
+    height: 15px;
+    width: 60px;
+    display: inline-block;
+    font-size: 10px; 
+    text-align: center;
+    vertical-align: middle;
+}
