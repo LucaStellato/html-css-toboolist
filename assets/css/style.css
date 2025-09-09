@@ -5,15 +5,16 @@ body{
 }
 .container
 {
-    background-color:#ffffff ;
+    background-color:hsl(0, 0%, 100%) ;
     vertical-align: middle;
     font-size: 32px;
     font-family: arial;
     margin-bottom: 30px;
 }
 
-.logotext{
-    vertical-align:super;
+h1{
+    display: inline-block;
+  
     
 }
 
@@ -24,14 +25,12 @@ body{
     font-family: arial;
     height: 640px;
     padding-left: 65px;
-    
+    padding-bottom: 30px;
+   
    
 
 }
-.addtask{
-    margin-left: 45px;
 
-}
 
 .blue_button{
 
@@ -54,104 +53,44 @@ body{
 }
 
 
-hr{
-    margin-bottom: 22px;
-}
-.check{
-  display: inline-block;
-  color: green;
-  font-weight: bold;
-  border: 1px solid green;
-  border-radius: 50%;
-  padding: 2px;
-  font-size: 10px;
-  line-height: 1;
-  vertical-align: middle;
-  
-}
 
-.editorial{
-    color: white;
-    background-color: #47adf1;
-    border-radius: 12px;
-    height: 15px;
-    width: 60px;
-   
-    display: inline-block;
-    font-size: 10px; 
-    text-align: center;
-    vertical-align: middle;
-    
-}
 
-.goals{
-    color: white;
-    background-color: #9c72e4;
-    border-radius: 12px;
-    height: 15px;
-    width: 60px;
-   
-    display: inline-block;
-    font-size: 10px; 
-    text-align: center;
-    vertical-align: middle;
+
     
-}
 
 .cross{
-color: red;    
-  font-weight: bold;
-  border: 1px solid red;
-  border-radius: 50%;
-  padding: 3px;
-  font-size: 10px;
-  line-height: 1;
-  vertical-align: middle;
-  display: inline-block;
+    color: red;  
+    border: 1px solid red; 
+     padding: 3px;
+     display: inline-block;
+    font-weight: bold;
+    border-radius: 50%;
+    vertical-align: middle;
+    line-height: 1; 
+    font-size: 10px;
+   
+
 }
 
+.check{
+    
+    color: green;
+    border: 1px solid green; 
+    padding: 2px;
+       display: inline-block;
+    font-weight: bold;
+    border-radius: 50%;
+    vertical-align: middle;
+    line-height: 1; 
+    font-size: 10px;
    
 
 
-.mobile{ 
-    color: white;
-    background-color: #f29e33;
-    border-radius: 12px;
-    height: 15px;
-    width: 60px;
-    display: inline-block;
-    font-size: 10px; 
-    text-align: center;
-    vertical-align: middle;
-
 }
 
-.website{
-    color: white;
-    background-color: #d863a1;
-    border-radius: 12px;
-    height: 15px;
-    width: 60px;
-    display: inline-block;
-    font-size: 10px; 
-    text-align: center;
-    vertical-align: middle;
-
-}
-
-.sales{
-     color: white;
-    background-color: #b0c926;
-    border-radius: 12px;
-    height: 15px;
-    width: 60px;
-    display: inline-block;
-    font-size: 10px; 
-    text-align: center;
-    vertical-align: middle;
 
 
-}
+
 .line{
     margin-top: 6px;
     border-bottom: 3px solid #f6f8f9;
@@ -159,3 +98,39 @@ color: red;
     margin-left: -110px;
 }
 
+
+.label
+{ 
+    border-radius: 12px;
+    height: 15px;
+    width: 60px;
+    display: inline-block;
+    font-size: 10px; 
+    text-align: center;
+    vertical-align: middle; 
+    color: white;
+
+    
+}
+.blu{
+    background-color: #47adf1;
+}
+#purple{
+      background-color: #9c72e4;
+}
+#green1{
+    background-color:#64c0a9;
+}
+#orange{
+     background-color: #f29e33;
+}
+#pink{
+     background-color: #d863a1;
+}
+#green2{
+    background-color: #b0c926;
+}
+.button{
+   
+   border-bottom: 2px solid #f6f8f9;
+}
