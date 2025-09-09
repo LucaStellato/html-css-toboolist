@@ -124,3 +124,30 @@ color: red;
     vertical-align: middle;
 
 }
+
+.website{
+    color: white;
+    background-color: #d863a1;
+    border-radius: 12px;
+    height: 15px;
+    width: 60px;
+    display: inline-block;
+    font-size: 10px; 
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.sales{
+     color: white;
+    background-color: #b0c926;
+    border-radius: 12px;
+    height: 15px;
+    width: 60px;
+    display: inline-block;
+    font-size: 10px; 
+    text-align: center;
+    vertical-align: middle;
+
+
+}
